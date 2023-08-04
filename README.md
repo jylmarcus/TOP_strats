@@ -1,4 +1,4 @@
-![image](https://github.com/jylmarcus/TOP_strats/assets/56386396/9689b0e4-d084-4a19-b9ee-07eb42d2b79b)# TOP_strats
+# TOP_strats
 
 ## Burst windows
 Start of P1 (Pot)
@@ -96,7 +96,7 @@ The bottom pair goes NE/SW (player without a marker goes NE).
 ### Sigma Towers
 Remember your waymark from spread
 
-![Tower pattern 1](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg = 500x500)
+![Tower pattern 1](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg?width=505&height=484)
 
 ![Tower pattern 2](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg)
 
