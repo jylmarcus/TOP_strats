@@ -96,7 +96,7 @@ The bottom pair goes NE/SW (player without a marker goes NE).
 ### Sigma Towers
 Remember your waymark from spread
 
-![Tower pattern 1](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg)
+![Tower pattern 1](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg = 500x500)
 
 ![Tower pattern 2](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/ultimates/top/images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg)
 
